@@ -4,11 +4,9 @@ Hi 👋 My name is Alexander Kazakov
 Frontend Developer
 ------------------
 
-Junior frontend developer.
+Frontend developer.
 
-⚡️ Completed a career as an electrical engineer and mastered a new profession.
-
-Open to any job offers or internships.
+Open to any job offers.
 
 🎓 Graduated: State Industrial College
 
