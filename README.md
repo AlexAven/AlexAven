@@ -10,9 +10,10 @@ Junior frontend developer.
 
 Open to any job offers or internships.
 
+🎓 Graduated: State Industrial College
 🎓 Graduated: Belgorod State Technological University
 
-📚 Additionally studied: [Hexlet](https://github.com/Hexlet)
+📚 Additionally graduated: [Hexlet](https://github.com/Hexlet)
 
 ⚙️ My stack:
 - JavaScript
